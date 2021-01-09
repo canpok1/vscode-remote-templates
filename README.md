@@ -7,4 +7,7 @@ VSCode の Remote Container 用設定ファイル集。
 ```
 # golang用の設定を展開する場合
 curl -L https://raw.githubusercontent.com/canpok1/vscode-remote-templates/main/golang/setup.sh | bash
+
+# rust用の設定を展開する場合
+curl -L https://raw.githubusercontent.com/canpok1/vscode-remote-templates/main/rust/setup.sh | bash
 ```
